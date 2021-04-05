@@ -39,10 +39,6 @@ p  {
 	margin: 0 0 20px 0;
 }
 
-.small {
-	font-size: 0.8em;
-}
-
 a {
 	text-decoration: none;
 }
@@ -50,7 +46,6 @@ a {
 	border: 5px rgb(152,173,166) solid;
 	margin-top: 2px;
 }
-
 
 .press img {
 	border: 5px #ccc solid;
